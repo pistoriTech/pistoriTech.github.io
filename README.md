@@ -49,7 +49,7 @@ Now that the benefits of hosting a markdown formatted resume as well as how that
 While this readme assumes that you already have your resume and github account ready, there are still some steps that need to be taken before those prerequisites will be used.
 
 
-    
+<br/>
 ##### 1) Install Jekyll
 
 The first step will be to install Jekyll, by following a step by step tutorial for Windows installation with one small change. Once you are viewing the RubyInstaller2 terminal and are told to perform actions labeled 1, 2, and 3, you must perform action 2 (MSYS2 system update) last. With that exception, this ((https://www.youtube.com/watch?v=LfP7Y9Ja6Qc&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=4) tutorial will lead you through the installation.
