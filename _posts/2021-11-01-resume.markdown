@@ -5,6 +5,109 @@ date:   2021-11-01 04:48:53 -0500
 categories: jekyll update
 ---
 
+### D.Pistorius
+
+Address: $$$$$$$$$$	Winnipeg, MB, $$$$$$
+
+1-555-$$$-$$$$	name@email.domain
+
+----
+
+#### Objective
+
+To obtain employment with a company that will allow me to apply the knowledge gained at the University of Manitoba and to learn and implement new practical computer-science skills.  
+
+------------------------------------------------------------------------------------
+
+#### Education
+
+###### BSC HONOURS COMPUTER SCIENCE CANDIDATE, UNIVERSITY OF MANITOBA, 5TH YEAR
+
+* Cumulative GPA: 4.02/4.5
+
+* COMP 4620 Professional Practice in Computer Science A
+  COMP 4360 Machine Learning A+
+  COMP 3190 Introduction to Artificial Intelligence A+
+  COMP 2160 Programming Practices A+
+  COMP 2130 Discrete Mathematics for Computer Science A+
+
+###### GRADE 12 CUM LAUDE, FORT RICHMOND COLLEGIATE, WINNIPEG, APRIL 2016
+
+* AP Computer Science with 98%
+  AP Physics with 90%  
+
+--------------------
+
+#### Awards and Recognition
+
+###### PLACED ON THE DEAN'S HONOUR LIST 2018/19
+**UNIVERSITY OF MANITOBA UNDERGRADUATE STUDENT AWARD (2020) $6,750 (DECLINED)**
+
+**UNDERGRADUATE RESEARCH AWARD (2020) $7000.00 (ACCEPTED)**
+
+------------------
+
+#### Skills
+
+Working knowledge of the Java and Python programming languages.
+
+Familiarity with the Lua, C, and C++ programming languages.
+
+Experience in animation, web design, and image processing using Adobe products  
+
+--------------
+
+#### Work History
+
+###### SUMMER RESEARCH POSITION, UNIVERSITY OF MANITOBA, COMPUTATIONAL FINANCIAL DERIVATIVES LABORATORY, WINNIPEG
+May 2020-August 2020
+Research related to Financial Counter-Party Risk Prevention with Blockchain
+
+###### SUMMER STUDENT, UNIVERSITY OF MANITOBA, PHYSICS IMAGING LAB, WINNIPEG
+
+May 2019- August 2019
+Accepted as Summer student to translate scientific algorithms from Matlab to Python.
+
+###### SUMMER STUDENT, UNIVERSITY OF MANITOBA, PHYSICS IMAGING LAB, WINNIPEG
+
+May 2018-August 2018
+Compiling of scientific papers using Zotero. (Volunteer work)  
+
+---------
+
+#### Hobbies
+
+Presiding over a bi-weekly Role Playing group as the Game Master.
+
+Reading fantasy/science fiction novels.
+
+Playing real-time and turn-based strategy games.  
+
+------------
+
+#### References
+
+**PROFESSOR RUPPA THULASIRAM**
+Research Supervisor: Computational Financial Derivatives Laboratory, University of Manitoba
+tulsi@cs.umanitoba.ca
+
+**MARIO SOLIS NEPOTE**
+Research Associate: Research Institute of Oncology and Hematology
+University of Manitoba Physics Imaging Lab
+mario.solis.n@gmail.com
+
+**MRS. J. PIASECKI**
+Physics Teacher and Mentor, Fort Richmond Collegiate
+jpiasecki@pembinatrails.ca  
+
+------------
+
+
+
+
+
+
+
 TESTING
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
