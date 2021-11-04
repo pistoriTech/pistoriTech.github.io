@@ -5,10 +5,8 @@
 #### Purpose
 
 This readme aims to provide you with the step by step process of hosting your markdown formatted resume on Github pages, as well as to discuss the general principles of Andrew Etter’s book Modern Technical Writing (https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) that relate to these steps.
-
-
-
-
+  
+   
 #### Prerequisites
 
 This readme will assume you already have a markdown formatted resume (NEED markdown tutorial), as well as access to a github account (https://github.com/) that you wish to use to host that resume.
@@ -48,6 +46,8 @@ While this readme assumes that you already have your resume and github account r
 
 
 
+  
+    
 ##### 1) Install Jekyll
 
 The first step will be to install Jekyll, by following a step by step tutorial for Windows installation with one small change. Once you are viewing the RubyInstaller2 terminal and are told to perform actions labeled 1, 2, and 3, you must perform action 2 (MSYS2 system update) last. With that exception, this ((https://www.youtube.com/watch?v=LfP7Y9Ja6Qc&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=4) tutorial will lead you through the installation.
@@ -67,6 +67,8 @@ The relative lack of installation, depending on if you consider a static site ge
 
 
 
+  
+    
 ##### 2) Create a static site
 
 Now that you have Jekyll installed correctly, the creation of the static site is next. For this step as well there exists a very short and clean tutorial that you should follow (https://www.youtube.com/watch?v=pxua_1vyFck&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=4). **However,** with this as well there are some small changes to these instructions. When asked to perform the command “bundle exec jekyll serve” you must first enter and execute this command “bundle add webrick”, after which you can continue to follow instructions.
@@ -74,6 +76,8 @@ Now that you have Jekyll installed correctly, the creation of the static site is
 
 
 
+  
+    
 ##### 3) Add your resume to the site 
 
 Now that you have your Jekyll site created, in order to put your resume into the site simply navigate to the _posts folder which can be found in the folder created by jekyll, and edit the contents of the markdown file found within such that your resume is below the second set of “---” which is used to contain the title and other information about the page you will be turning into your resume.
@@ -81,6 +85,8 @@ Now that you have your Jekyll site created, in order to put your resume into the
 
 
 
+  
+    
 ##### 4) Hosting your resume site
 
 Lastly you will need to host your resume website onto github pages. To do this you will first need to create a personal access token for your github if you have not done so already. To do so, simply follow the first 9 of 10 steps as laid out by github here (https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
