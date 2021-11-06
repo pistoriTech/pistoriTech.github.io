@@ -96,6 +96,6 @@ at least one other resource
 
 #### Authors and Acknowledgements
 
-template authors?
+[Minima Theme](https://github.com/jekyll/minima): Provided by Jekyll along with 65 other contributers 
 
-Group members: 
+Group members: Tim Appleyard, Gurtej Boparai, Nelson Yucong Nie, Jordan Unger
