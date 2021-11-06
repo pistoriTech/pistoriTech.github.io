@@ -88,8 +88,6 @@ You should now be able to view your github pages site, the link to which can be 
 
 [Modern Technical Writing by Etter](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 
-at least one other resource
-
 [Ruby download](https://rubyinstaller.org/downloads/)
 
 
@@ -99,3 +97,10 @@ at least one other resource
 [Minima Theme](https://github.com/jekyll/minima): Provided by Jekyll along with 65 other contributers 
 
 Group members: Tim Appleyard, Gurtej Boparai, Nelson Yucong Nie, Jordan Unger
+
+#### FAQs:
+* Q: Why is Markdown bettern than a word processor?
+  A: Markdown allows bare minimum formating and simple style changes, while still making the raw files human-readable in most basic text-editors.
+  
+* Q: Why can't I log into Github on the terminal?
+  A: Github login on the terminal requires a personal access token ([as described here](https://www.youtube.com/watch?v=fqFjuX4VZmU&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=19)) instead of your Github password.
