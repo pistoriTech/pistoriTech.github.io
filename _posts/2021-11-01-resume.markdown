@@ -7,9 +7,9 @@ categories: jekyll update
 
 ### D.Pistorius
 
-Address: $$$$$$$$$$	Winnipeg, MB, $$$$$$
+Address: Private	Private, Private, Private
 
-1-555-$$$-$$$$	name@email.domain
+1-@@@-@@@-@@@@	name@email.domain
 
 ----
 
