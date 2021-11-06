@@ -37,7 +37,7 @@ Before continuing to the process of creating and hosting your site, the followin
 While this readme assumes that you already have your resume and github account ready, there are still some steps that need to be taken before those prerequisites will be used.
 
 
-
+<br/>
 ##### 1) Install Jekyll
 
 First, install Jekyll by following [this](https://www.youtube.com/watch?v=LfP7Y9Ja6Qc&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=4) step by step tutorial for Windows installation with two changes. First, when installing ruby follow the suggestions for which version to install given by ruby on the right side of the download page. Second, when you are viewing the RubyInstaller2 terminal and are told to perform actions labeled 1, 2, and 3, you must perform action 2 (MSYS2 system update) last.
