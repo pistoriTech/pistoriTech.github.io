@@ -84,13 +84,13 @@ You should now be able to view your github pages site, the link to which can be 
 
 #### More Resources
 
-markdown tutorial
+[Markdown tutorial](https://www.markdowntutorial.com/)
 
-link to etters book
+[Modern Technical Writing by Etter](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 
 at least one other resource
 
-
+[Ruby download](https://rubyinstaller.org/downloads/)
 
 
 
