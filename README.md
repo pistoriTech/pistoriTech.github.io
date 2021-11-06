@@ -55,19 +55,19 @@ The primary benefits that Etter describes which relate to the hosting of your ma
 The ease of installation, also means that hosting a website locally, such as for testing purposes, takes minimal work. With Github pages this benefit will likely become a necessity, as without the ability to host locally, it can take up to 20 minutes for changes to be reflected in the website.
 
 
-
+<br/>
 ##### 2) Create a static site
 
 Once Jekyll is installed, begin creation the static site. To do this, follow this short and clean [tutorial](https://www.youtube.com/watch?v=pxua_1vyFck&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=4). **However,** there are some changes to these instructions. When asked to perform the command “bundle exec jekyll serve” you must first enter and execute this command “bundle add webrick”, after which you can continue to follow the instructions.
 
 
-
+<br/>
 ##### 3) Add your resume to the site 
 
 Now that you have your Jekyll site created, to put your resume into the site simply navigate to the _posts folder which can be found in the folder created by jekyll, and edit the contents of the markdown file found within such that your resume is below the second set of “---” which is used to contain the title and other information about the page you will be turning into your resume.
 
 
-
+<br/>
 ##### 4) Hosting your resume site
 
 Lastly you will need to host your resume website onto github pages. To do this you will first need to create a personal access token for your github if you have not done so already. First, sign into github and follow the first 9 of 10 steps as laid out [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token). **NOTE:** During step 8, if you are unsure which permissions you will need, select all of them.
