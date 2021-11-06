@@ -4,7 +4,7 @@
 
 #### Purpose
 
-This readme aims to provide you with the step by step process of hosting your markdown formatted resume on Github pages, as well as to discuss the general principles of Andrew Etter’s book [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) that relate to these steps.
+This readme aims to provide you with the step by step process of hosting your markdown formatted resume on GitHub pages, as well as to discuss the general principles of Andrew Etter’s book [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) that relate to these steps.
 
 
 
@@ -18,7 +18,7 @@ Before continuing to the process of creating and hosting your site, the followin
 
 * Firstly, the decision to host your resume online. This is key to one of Etter's basic topics for technical documentation. Hosting on a website allows the material to be corrected and updated almost instantly, and keeps the content as viewed by prospective employers in sync with these changes.  Given that a resume must be accurate and ever evolving, this approach is a perfect fit for this type of documentation.
 
-  While Github version control is likely, as Etter describes, "overkill" for non-software based work, having easy access to multiple independent version of your resume is important given different versions may be more appropriate for different employers.
+  While GitHub version control is likely, as Etter describes, "overkill" for non-software based work, having easy access to multiple independent version of your resume is important given different versions may be more appropriate for different employers.
 
   
 
@@ -34,7 +34,7 @@ Before continuing to the process of creating and hosting your site, the followin
 
 #### Instructions
 
-While this readme assumes that you already have your resume and github account ready, there are still some steps that need to be taken before those prerequisites will be used.
+While this readme assumes that you already have your resume and GitHub account ready, there are still some steps that need to be taken before those prerequisites will be used.
 
 
 <br/>
@@ -52,7 +52,7 @@ The primary benefits that Etter describes which relate to the hosting of your ma
 
 
 
-The ease of installation, also means that hosting a website locally, such as for testing purposes, takes minimal work. With Github pages this benefit will likely become a necessity, as without the ability to host locally, it can take up to 20 minutes for changes to be reflected in the website.
+The ease of installation, also means that hosting a website locally, such as for testing purposes, takes minimal work. With GitHub Pages this benefit will likely become a necessity, as without the ability to host locally, it can take up to 20 minutes for changes to be reflected in the website.
 
 
 <br/>
@@ -70,13 +70,13 @@ Now that you have your Jekyll site created, to put your resume into the site sim
 <br/>
 ##### 4) Hosting your resume site
 
-Lastly you will need to host your resume website onto github pages. To do this you will first need to create a personal access token for your github if you have not done so already. First, sign into github and follow the first 9 of 10 steps as laid out [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token). **NOTE:** During step 8, if you are unsure which permissions you will need, select all of them.
+Lastly you will need to host your resume website onto GitHub Pages. To do this you will first need to create a personal access token for your GitHub if you have not done so already. First, sign into GitHub and follow the first 9 of 10 steps as laid out [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token). **NOTE:** During step 8, if you are unsure which permissions you will need, select all of them.
 
-Once you have your personal access token, which will allow you to follow along with the git commands for hosting your resume to github pages, follow along with the instructions in the tutorial linked [here](https://www.youtube.com/watch?v=fqFjuX4VZmU&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=19).
+Once you have your personal access token, which will allow you to follow along with the git commands for hosting your resume to GitHub Pages, follow along with the instructions in the tutorial linked [here](https://www.youtube.com/watch?v=fqFjuX4VZmU&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=19).
 
 ---
 
-You should now be able to view your github pages site, the link to which can be found under the settings for the repository you created when hosting the site, under the GitHub Pages heading. It will likely be of the form username.github.io/siteName where username is your github username, and site name is the name of the repository you posted the site to. ![ExampleGif](https://github.com/pistoriTech/pistoriTech.github.io/blob/gh-pages/EndProduct.gif)
+You should now be able to view your GitHub Pages site, the link to which can be found under the settings for the repository you created when hosting the site, under the GitHub Pages heading. It will likely be of the form username.github.io/siteName where username is your GitHub username, and site name is the name of the repository you posted the site to. ![ExampleGif](https://github.com/pistoriTech/pistoriTech.github.io/blob/gh-pages/EndProduct.gif)
 
 
 
@@ -102,5 +102,5 @@ Group members: Tim Appleyard, Gurtej Boparai, Nelson Yucong Nie, Jordan Unger
 * Q: Why is Markdown bettern than a word processor?
   A: Markdown allows bare minimum formating and simple style changes, while still making the raw files human-readable in most basic text-editors.
   
-* Q: Why can't I log into Github on the terminal?
-  A: Github login on the terminal requires a personal access token ([as described here](https://www.youtube.com/watch?v=fqFjuX4VZmU&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=19)) instead of your Github password.
+* Q: Why can't I log into GitHub on the terminal?
+  A: GitHub login on the terminal requires a personal access token ([as described here](https://www.youtube.com/watch?v=fqFjuX4VZmU&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=19)) instead of your GitHub password.
