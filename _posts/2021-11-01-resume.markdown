@@ -7,7 +7,7 @@ categories: jekyll update
 
 ### D.Pistorius
 
-Address: Private	Private, Private, Private
+Address: Private
 
 1-@@@-@@@-@@@@	name@email.domain
 
