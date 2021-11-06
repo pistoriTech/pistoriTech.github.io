@@ -100,8 +100,8 @@ It should look similar to this: ![ExampleGif](https://github.com/pistoriTech/pis
 Group members: Tim Appleyard, Gurtej Boparai, Nelson Yucong Nie, Jordan Unger
 
 #### FAQs:
-* Q: Why is Markdown bettern than a word processor?
+* Q: Why is Markdown bettern than a word processor?<br/>
   A: Markdown allows bare minimum formating and simple style changes, while still making the raw files human-readable in most basic text-editors.
   
-* Q: Why can't I log into GitHub on the terminal?
+* Q: Why can't I log into GitHub on the terminal?<br/>
   A: GitHub login on the terminal requires a personal access token ([as described here](https://www.youtube.com/watch?v=fqFjuX4VZmU&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=19)) instead of your GitHub password.
