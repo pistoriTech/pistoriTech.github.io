@@ -76,7 +76,7 @@ Once you have your personal access token, which will allow you to follow along w
 
 ---
 
-You should now be able to view your github pages site, the link to which can be found under the settings for the repository you created when hosting the site, under the GitHub Pages heading. It will likely be of the form username.github.io/siteName where username is your github username, and site name is the name of the repository you posted the site to.
+You should now be able to view your github pages site, the link to which can be found under the settings for the repository you created when hosting the site, under the GitHub Pages heading. It will likely be of the form username.github.io/siteName where username is your github username, and site name is the name of the repository you posted the site to. ![ExampleGif](https://github.com/pistoriTech/pistoriTech.github.io/blob/gh-pages/EndProduct.gif)
 
 
 
