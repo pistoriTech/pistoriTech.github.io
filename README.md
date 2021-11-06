@@ -4,7 +4,7 @@
 
 #### Purpose
 
-This readme aims to provide you with the step by step process of hosting your markdown formatted resume on GitHub pages, as well as to discuss the general principles of Andrew Etter’s book [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) that relate to these steps.
+This readme aims to provide you with the step-by-step process of hosting your markdown formatted resume on GitHub pages, as well as to discuss the general principles of Andrew Etter’s book [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) that relate to these steps.
 
 
 
@@ -14,11 +14,11 @@ This readme will assume you already have a markdown formatted resume (NEED markd
 
 
 
-Before continuing to the process of creating and hosting your site, the following is a discussion of the some of the steps you have ideally already taken in preperation for following this readme:
+Before continuing to the process of creating and hosting your site, the following is a discussion of some of the steps you have ideally already taken in preparation for following this readme:
 
 * Firstly, the decision to host your resume online. This is key to one of Etter's basic topics for technical documentation. Hosting on a website allows the material to be corrected and updated almost instantly, and keeps the content as viewed by prospective employers in sync with these changes.  Given that a resume must be accurate and ever evolving, this approach is a perfect fit for this type of documentation.
 
-  While GitHub version control is likely, as Etter describes, "overkill" for non-software based work, having easy access to multiple independent version of your resume is important given different versions may be more appropriate for different employers.
+  While GitHub version control is likely, as Etter describes, "overkill" for non-software based work, having easy access to multiple independent versions of your resume is important given different versions may be more appropriate for different employers.
 
   
 
@@ -48,29 +48,29 @@ Jekyll is a static site generator, and will be used to handwave the more technic
 
 
 
-The primary benefits that Etter describes which relate to the hosting of your markdown resume are portability, and little to no installation. The nature of static websites as a series of files makes moving the location of all website related content as simple as any other folder transfer. This also means changing which files are hosted on a site like Githib pages is similarly easy.
+The primary benefits that Etter describes which relate to the hosting of your markdown resume are portability, and little to no installation. The nature of static websites as a series of files makes moving the location of all website-related content as simple as any other folder transfer. This also means changing which files are hosted on a site like Github pages is similarly easy.
 
 
 
-The ease of installation, also means that hosting a website locally, such as for testing purposes, takes minimal work. With GitHub Pages this benefit will likely become a necessity, as without the ability to host locally, it can take up to 20 minutes for changes to be reflected in the website.
+The ease of installation also means that hosting a website locally, such as for testing purposes, takes minimal work. With GitHub Pages, this benefit will likely become a necessity, as without the ability to host locally, it can take up to 20 minutes for changes to be reflected in the website.
 
 
 <br/>
 ##### 2) Create a static site
 
-Once Jekyll is installed, begin creation the static site. To do this, follow this short and clean [tutorial](https://www.youtube.com/watch?v=pxua_1vyFck&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=4). **However,** there are some changes to these instructions. When asked to perform the command “bundle exec jekyll serve” you must first enter and execute this command “bundle add webrick”, after which you can continue to follow the instructions.
+Once Jekyll is installed, begin creating the static site. To do this, follow this short and clean [tutorial](https://www.youtube.com/watch?v=pxua_1vyFck&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=4). **However,** there are some changes to these instructions. When asked to perform the command “bundle exec Jekyll serve” you must first enter and execute this command “bundle add webrick”, after which you can continue to follow the instructions.
 
 
 <br/>
 ##### 3) Add your resume to the site 
 
-Now that you have your Jekyll site created, to put your resume into the site simply navigate to the _posts folder which can be found in the folder created by jekyll, and edit the contents of the markdown file found within such that your resume is below the second set of “---” which is used to contain the title and other information about the page you will be turning into your resume.
+Now that you have your Jekyll site created, to put your resume into the site simply navigate to the _posts folder which can be found in the folder created by Jekyll, and edit the contents of the markdown file found within such that your resume is below the second set of “---” which is used to contain the title and other information about the page you will be turning into your resume.
 
 
 <br/>
 ##### 4) Hosting your resume site
 
-Lastly you will need to host your resume website onto GitHub Pages. To do this you will first need to create a personal access token for your GitHub if you have not done so already. First, sign into GitHub and follow the first 9 of 10 steps as laid out [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token). **NOTE:** During step 8, if you are unsure which permissions you will need, select all of them.
+Lastly, you will need to host your resume website onto GitHub Pages. To do this you will first need to create a personal access token for your GitHub if you have not done so already. First, sign into GitHub and follow the first 9 of 10 steps as laid out [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token). **NOTE:** During step 8, if you are unsure which permissions you will need, select all of them.
 
 Once you have your personal access token, which will allow you to follow along with the git commands for hosting your resume to GitHub Pages, follow along with the instructions in the tutorial linked [here](https://www.youtube.com/watch?v=fqFjuX4VZmU&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=19).
 
@@ -95,12 +95,12 @@ It should look similar to this: ![ExampleGif](https://github.com/pistoriTech/pis
 
 #### Authors and Acknowledgements
 
-[Minima Theme](https://github.com/jekyll/minima): Provided by Jekyll along with 65 other contributers 
+[Minima Theme](https://github.com/jekyll/minima): Provided by Jekyll along with 65 other contributors 
 
 Group members: Tim Appleyard, Gurtej Boparai, Nelson Yucong Nie, Jordan Unger
 
 #### FAQs:
-* Q: Why is Markdown bettern than a word processor?<br/>
+* Q: Why is Markdown better than a word processor?<br/>
   A: Markdown allows bare minimum formating and simple style changes, while still making the raw files human-readable in most basic text-editors.
   
 * Q: Why can't I log into GitHub on the terminal?<br/>
